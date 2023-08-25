@@ -14,8 +14,7 @@ The Supplier Product List Processor is a PHP-based command-line tool designed to
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/supplier-product-list-processor.git
+  -  git clone https://github.com/shilnakstech/examples.git
 
 ## Run the project
 
