@@ -1,0 +1,11 @@
+make,model,colour,capacity,network,grade,condition,count
+Apple,iPhone 6s Plus,Red,256GB,Unlocked,Grade A,Working,1
+Samsung,Galaxy S10,Black,128GB,AT&T,Grade B,Faulty,1
+Google,Pixel 4,White,64GB,Verizon,Grade A,Working,1
+Apple,iPhone 11,Black,128GB,T-Mobile,Grade A,Working,1
+Samsung,Galaxy Note 20,Ultra Bronze,512GB,Verizon,Grade A,Working,1
+Google,Pixel 5,Just Black,128GB,Unlocked,Grade A,Working,1
+Apple,iPhone 12 Pro,Gold,256GB,AT&T,Grade B,Scratched,1
+Samsung,Galaxy S21,Phantom Violet,256GB,T-Mobile,Grade A,Working,1
+Google,Pixel 4a,Just Black,128GB,Verizon,Grade B,Faulty,1
+Apple,iPhone SE,White,64GB,Sprint,Grade A,Working,1
